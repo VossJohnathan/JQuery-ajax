@@ -1,0 +1,46 @@
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73a2f5;
+    padding: 10px;
+}
+
+body {
+    background-color: #B5B1B2;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.form-outline {
+    text-align: center;
+
+}
+
+.button {
+    background-color: #73a2f5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.form-control {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
